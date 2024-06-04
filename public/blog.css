@@ -1,0 +1,28 @@
+
+img{
+   margin: auto;
+    width: 25%;
+   display: inline-flex;
+    margin: calc(39%/10);
+    align-items: center;
+    justify-content: center;
+    place-items: center;
+}
+
+h1{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    padding-top: 3%;
+}
+
+nav {
+    /* width: 95%;
+   height: 5%;  */
+   margin: auto; 
+    display: flex;
+   align-items: center;
+   justify-content: space-between;
+   background-color: aliceblue;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 18px;
+;}
